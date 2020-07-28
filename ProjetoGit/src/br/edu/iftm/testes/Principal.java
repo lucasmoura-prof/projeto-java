@@ -8,6 +8,7 @@ public class Principal {
 		System.out.println("Olá mundo!");
 		Soma soma = new Soma();
 		System.out.println(soma.calcular(5, 10));
+		System.out.println(soma.calcular(2, 3));
 	}
 
 }
